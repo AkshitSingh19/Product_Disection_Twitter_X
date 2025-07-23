@@ -5,7 +5,7 @@
 ## **Overview**
 This project presents a comprehensive **product dissection and schema design** for **X (formerly Twitter)** — one of the world’s most influential platforms for real-time information and public discourse. The goal is to analyze the platform's core features, explore its real-world impact, and model its data architecture through schema and ER diagram representation.
 
-🔗 **GitHub Repository:** [X Product Dissection and Schema Design](https://github.com/your-repo-link)
+🔗 **GitHub Repository:** [X Product Dissection and Schema Design](https://github.com/AkshitSingh19/Product_Disection_Twitter_X))
 
 ---
 
@@ -121,7 +121,7 @@ This project presents a comprehensive **product dissection and schema design** f
 ---
 
 ## **ER Diagram**
-📌 *Add ER Diagram Screenshot Here (Optional)*  
+📌 *Add ER Diagram Added in the repsitory*  
 This diagram visually illustrates the relationships between the entities defined above.
 
 ---
@@ -134,9 +134,9 @@ The schema model offers deep insights into how a microblogging platform is archi
 ---
 
 ## 📬 Contact
-📩 **Email:** [abhityagi4733@gmail.com](mailto:abhityagi4733@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/abhishektyagi02](https://linkedin.com/in/abhishektyagi02)  
-🔗 **GitHub:** [github.com/abhishek-tyagi-da](https://github.com/abhishek-tyagi-da)
+📩 **Email:** [asas.singh7@gmail.com](mailto:asas.singh7@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/akshitsingh500](https://linkedin.com/in/akshitsingh500)  
+🔗 **GitHub:** [github.com/AkshitSingh19](https://github.com/AkshitSingh19)
 
 🚀 *Empowering communication, one tweet at a time.*  
 ⭐ *Star this repo if you found it useful!*
