@@ -1,6 +1,6 @@
 # **X (Twitter) Product Dissection Case Study**
 
-<img width="900" height="400" alt="X_profile" src="https://github.com/user-attachments/assets/60925f6a-3773-4f70-a88f-d92830ef546e" />
+<img width="900" height="400" alt="X_profile" src="https://github.com/user-attachments/assets/fde8a6b0-0e31-4c04-8b81-a3c23ac9541c" />
 
 
 ## **Overview**
