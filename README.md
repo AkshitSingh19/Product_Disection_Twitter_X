@@ -121,7 +121,7 @@ This project presents a comprehensive **product dissection and schema design** f
 ---
 
 ## **ER Diagram**
-📌 *Add ER Diagram Added in the repsitory*  
+📌 *ER Diagram Added in the repsitory*  
 This diagram visually illustrates the relationships between the entities defined above.
 
 ---
