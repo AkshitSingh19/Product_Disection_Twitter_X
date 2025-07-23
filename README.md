@@ -1,6 +1,7 @@
 # **X (Twitter) Product Dissection Case Study**
 
-<img width="900" height="400" alt="X_profile" src="https://github.com/user-attachments/assets/804b01f7-e846-4e2f-bd09-a3be32429d64" />
+<img width="900" height="400" alt="X_profile" src="(https://github.com/user-attachments/assets/60925f6a-3773-4f70-a88f-d92830ef546e)" />
+
 
 ## **Overview**
 This project presents a comprehensive **product dissection and schema design** for **X (formerly Twitter)** — one of the world’s most influential platforms for real-time information and public discourse. The goal is to analyze the platform's core features, explore its real-world impact, and model its data architecture through schema and ER diagram representation.
